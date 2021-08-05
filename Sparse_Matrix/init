@@ -1,1 +1,10 @@
 This repo contains a Sparse Matrix implementation using Linked Lists
+
+SparseMatrix_med.py : That file includes two main classes "MatrixEntry" and "SparseMatrix"
+
+SparseMatrix_test_med.py : That file includes a unit test implementation to check the correctness of the implemented functions
+
+basic_usages.py : That file includes basic usages of the implemented functions. You can create a Sparse Matrix, set any value to a given column & row, 
+get any value from a given column & row, get the information about a whole row or col, a part of the Sparse Matrix or the whole Sparse Matrix
+
+For more detailed explinication about Sparse Matrices and how I implemented that code, you can check the following medium post :  
