@@ -1,0 +1,391 @@
+#
+Carrie Underwood
+Cowboy Casanova
+236
+
+#
+Carrie Underwood
+Quitter
+220
+
+#
+Rihanna
+Russian Roulette
+228
+
+#
+Foo Fighters
+All My Life
+263
+
+#
+Foo Fighters
+Monkey Wrench
+230
+
+#
+Eric Clapton
+Pretending
+283
+
+#
+Eric Clapton
+Bad Love
+308
+
+#
+Howlin' Wolf
+Everybody's In The Mood
+178
+
+#
+Howlin' Wolf
+Well That's All Right
+175
+
+#
+Reverend Gary Davis
+Samson and Delilah
+216
+
+#
+Reverend Gary Davis
+Twelve Sticks
+194
+
+#
+Roy Buchanan
+Hot Cha
+208
+
+#
+Roy Buchanan
+Green Onions
+443
+
+#
+Janiva Magness
+I'm Just a Prisoner
+230
+
+#
+Janiva Magness
+You Were Never Mine
+276
+
+#
+John Lee Hooker
+Hobo Blues
+187
+
+#
+John Lee Hooker
+I Can't Quit You Baby
+182
+
+#
+Snoop Dogg
+That's The Homie
+343
+
+#
+Snoop Dogg
+Gangsta Luv
+257
+
+#
+The Rubyz
+Ladies and Gentleman
+201
+
+#
+The Rubyz
+Watch the Girl
+192
+
+#
+Veggie Tales
+Donuts for Benny
+184
+
+#
+Veggie Tales
+Our Big Break
+69
+
+#
+Berliner Philharmoniker
+Brahms: Symphony No. 1 in C Minor Op. 68
+839
+
+#
+Berliner Philharmoniker
+Brahms: Symphony No. 4 in E Minor Op. 98
+800
+
+#
+Yo-yo Ma
+Bach: Suite for Cello No. 1 in G Major Prelude
+141
+
+#
+Yo-yo Ma
+Simple Gifts
+154
+
+#
+Ry Cooter
+Alimony
+175
+
+#
+Ry Cooter
+France Chance
+168
+
+#
+Aaron Watson
+The Road
+204
+
+#
+Terra Incognita
+Clone
+298
+
+#
+Terra Incogni
+Lizard Skin
+270
+
+#
+Blue Record
+Bullhead's Psalm
+79
+
+#
+Blue Record
+Ogeechee Hymnal
+155
+
+#
+Mastadon
+Oblivion
+348
+
+#
+Mastadon
+The Bit
+295
+
+#
+Sean Kingston
+Fire Burning
+239
+
+#
+Sean Kingston
+My Girlfriend
+204
+
+#
+T-Pain
+Take Your Shirt Off
+228
+
+#
+Lil Jon
+Give It All U Got
+218
+
+#
+Jay-Z
+What We Talkin' About
+243
+
+#
+Jay-Z
+Empire State of Mind
+276
+
+#
+Snoop Dog
+Think About It
+217
+
+#
+Snoop Dog
+Lil' Crips
+195
+
+#
+Jeff Golub
+Shuffleboard
+210
+
+#
+Jeff Golub
+Goin' On
+356
+
+#
+Jeff Golub
+Fish Fare
+299
+
+#
+Caraivana
+Noites Cariocas
+252
+
+#
+Caraivana
+Tico-Tico No Fuba
+147
+
+#
+John Patitucci
+Monk/Trane
+434
+
+#
+John Patitucci
+Sonny Side
+445
+
+#
+Nina Simone
+Pirate Jenny
+402
+
+#
+Nina Simone
+The Other Woman
+186
+
+#
+Nina Simone
+Feeling Good
+177
+
+#
+John Coltrane
+A Love Supreme Part 1
+462
+
+#
+John Coltrane
+In a Sentimental Mood
+256
+
+#
+AOL Dejando Huellas
+Dime Si te Vas Con El
+204
+
+#
+AOL Dejando Huella
+Te Amo Tanto
+192
+
+#
+McCoy Tyner
+Blues On the Corner
+367
+
+#
+McCoy Tyner
+Afro Blue
+742
+
+#
+Kanye West
+Stronger
+311
+
+#
+Kanye West
+Good Life
+207
+
+#
+Steely Dan
+Black Cow
+310
+
+#
+Steely Dan
+Kid Charlemagne
+278
+
+#
+Steely Dan
+Haitian Divorce
+351
+
+#
+Herbie Hancock
+Nefertiti
+451
+
+#
+Herbie Hancock
+Rockit
+325
+
+#
+Herbie Hancock
+Chameleon
+941
+
+#
+Return to Forever
+Medieval Overture
+313
+
+#
+Suzanne Vega
+Luka
+231
+
+#
+Suzanne Vega
+Small Blue Thing
+235
+
+#
+Bonnie Raitt
+Something to Talk About
+227
+
+#
+Bonnie Raitt
+I Can't Make You Love Me
+331
+
+#
+Natalie Cole
+This Will Be
+171
+
+#
+Natalie Cole
+Unforgettable
+211
+
+#
+Jet
+Timothy
+260
+
+#
+Jet
+Rip It Up
+200
+
+#
+Was (Not Was)
+Where Did Your Heart Go?
+347
+
+
