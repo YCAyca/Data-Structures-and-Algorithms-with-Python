@@ -8,3 +8,5 @@ and some additional tests for working with Itunes contenst
 itunes.py : a source code to read and use itunes entries given by itunes_file.txt This part is not implemented by me!
 
 itunes_file.txt : includes a song list with the song names and duration in seconds
+
+For more detailed explinication, you can see my blog about this algorithm https://medium.com/data-structures-and-algorithms-with-python/subset-sum-problem-implementation-with-python-504f17f6bf3a 
