@@ -1,0 +1,10 @@
+This repo contains an example implementation of Subset Sum Problem.
+
+subsetsum_med.py: Main code which includes the implementation
+
+subsetsum_test_med.py: That file includes a unit test implementation to check the correctness of the implemented functions 
+and some additional tests for working with Itunes contenst
+
+itunes.py : a source code to read and use itunes entries given by itunes_file.txt This part is not implemented by me!
+
+itunes_file.txt : includes a song list with the song names and duration in seconds
