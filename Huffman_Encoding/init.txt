@@ -1,0 +1,5 @@
+This repo contains a Huffman Encoding implementation.
+
+huffman.py : Main code including helper functions and using 3 different test cases
+
+demo_file.txt : Data for 3. test 
