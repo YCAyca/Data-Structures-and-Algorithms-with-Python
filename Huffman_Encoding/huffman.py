@@ -44,6 +44,11 @@ def Calculate_Probability(data):
     return symbols
 
 
+""" A helper function to print the encoded data"""
+def Print_Encoded(data, coding):
+    for c in data:
+        print(coding[c], end = '')
+
 def Huffman_Encoding(data):
     symbol_with_probs = Calculate_Probability(data)
     symbols = symbol_with_probs.keys()
@@ -80,6 +85,8 @@ def Huffman_Encoding(data):
     huffman_encoding = Calculate_Codes(nodes[0])
     print(huffman_encoding)
     Total_Gain(data, huffman_encoding)
+    print("Encoded :")
+    Print_Encoded(data,huffman_encoding)
     
 """ A helper function to calculate the space difference between compressed and non compressed data"""    
 def Total_Gain(data, coding):
